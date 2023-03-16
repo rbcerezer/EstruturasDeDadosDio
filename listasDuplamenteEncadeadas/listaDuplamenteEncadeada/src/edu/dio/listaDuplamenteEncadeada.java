@@ -89,6 +89,7 @@ public class listaDuplamenteEncadeada<T> {
     public int size (){
         return this.tamanhoLista;
     }
+<<<<<<< HEAD
 
     @Override
     public String toString() {
@@ -104,4 +105,6 @@ public class listaDuplamenteEncadeada<T> {
         strRetorno += "null";
         return strRetorno;
     }
+=======
+>>>>>>> origin/master
 }
